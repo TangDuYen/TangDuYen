@@ -34,7 +34,12 @@ Aspiring QA Engineer | Software Engineering Background
 [![LinkedIn](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/yen-tang-9a8457294/)
 [![daily.dev](https://img.icons8.com/?size=50&id=n98knU41v5Aq&format=png&color=000000)](https://app.daily.dev/yellan)
 [![Instagram](https://img.icons8.com/?size=50&id=32323&format=png&color=000000)](https://www.instagram.com/tdyen.07/)
+[![Facebook](https://img.icons8.com/?size=50&id=118497&format=png&color=000000)](https://www.facebook.com/yen.tang.9026040/)
 ---
 
 ## My GitHub Stats
-![TangDuYen's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TangDuYen&show_icons=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=TangDuYen&show_icons=true&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TangDuYen&layout=compact&theme=tokyonight" />
+</p>
