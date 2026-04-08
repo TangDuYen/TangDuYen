@@ -33,10 +33,10 @@
 ---
 
 ## 📫 Contact Me
-- Email: your-email@example.com
-- LinkedIn: your-linkedin
+- Email: tangduyen12345@gmail.com
+- LinkedIn: [YenTang](https://www.linkedin.com/in/yen-tang-9a8457294/)
 
 ---
 
 ## 📊 GitHub Stats
-![Yellan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![TangDuYen's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangduyen&show_icons=true)
